@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- Timeouts for 3rdparty systems -->
+  <setting name="community_host_timeout_secs" xsi:type="xsd:int">2</setting>
+  <setting name="brightcove_image_timeout" xsi:type="xsd:int">2</setting>
+  <setting name="liveblog_timeout" xsi:type="xsd:int">1</setting>
+  <setting name="mailjet_timeout" xsi:type="xsd:int">1</setting>
+  <setting name="retresco_timeout" xsi:type="xsd:double">2</setting>
+  <setting name="retresco_body_timeout" xsi:type="xsd:double">1</setting>
+  <setting name="elasticsearch_timeout" xsi:type="xsd:double">2</setting>
+  <setting name="reach_timeout" xsi:type="xsd:double">0.2</setting>
+  <setting name="podigee_api_timeout" xsi:type="xsd:int">2</setting>
+  <setting name="podigee_config_timeout" xsi:type="xsd:int">2</setting>
+  <setting name="script_timeout" xsi:type="xsd:int">2000</setting>
+  <setting name="show_commentcount_value" xsi:type="xsd:int">100</setting>
+  <setting name="solr_timeout" xsi:type="xsd:int">2</setting>
+  <setting name="spektrum_hp_feed_timeout" xsi:type="xsd:int">2</setting>
+  <setting name="zett_hp_feed_timeout" xsi:type="xsd:int">2</setting>
+</settings>

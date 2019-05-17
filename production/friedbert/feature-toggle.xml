@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<features>
+  <amp_advertising>true</amp_advertising>
+  <amp_advertising_criteo>true</amp_advertising_criteo>
+  <arbeit_quote_sharing>false</arbeit_quote_sharing>
+  <article_audio_player>true</article_audio_player>
+  <author_feedback>true</author_feedback>
+  <c1_adblocker_blocker>true</c1_adblocker_blocker>
+  <campus_jobs_flyout_menu>true</campus_jobs_flyout_menu>
+  <campus_toolbox>true</campus_toolbox>
+  <copy_link>true</copy_link>
+  <ctm_as_adtile99>true</ctm_as_adtile99>
+  <enable_beacon_tracking>true</enable_beacon_tracking>
+  <enable_intext_links>true</enable_intext_links>
+  <fbia_advertising>true</fbia_advertising>
+  <https>true</https>
+  <iqd>true</iqd>
+  <ligatus>true</ligatus>
+  <nav_extraitem>true</nav_extraitem>
+  <optimize_ab_testing_to_webtrekk>false</optimize_ab_testing_to_webtrekk>
+  <podlove_button>true</podlove_button>
+  <preload_webfonts>true</preload_webfonts>
+  <push_for_author_in_app>true</push_for_author_in_app>
+  <reader_revenue>true</reader_revenue>
+  <reader_revenue_handle_celeraone_login_inconsistency>true</reader_revenue_handle_celeraone_login_inconsistency>
+  <reader_revenue_registered_with_comments>false</reader_revenue_registered_with_comments>
+  <rebrush2019>false</rebrush2019>
+  <share_blocks_via_screenshot>true</share_blocks_via_screenshot>
+  <sourcepoint_cmp>false</sourcepoint_cmp>
+  <third_party_modules>true</third_party_modules>
+  <tracking>true</tracking>
+  <unobfuscate_first_published>false</unobfuscate_first_published>
+  <update_signals>true</update_signals>
+  <user_profile>true</user_profile>
+  <user_profile_avatar>true</user_profile_avatar>
+  <user_profile_link>true</user_profile_link>
+  <user_profile_flow>true</user_profile_flow>
+  <user_profile_promotion>true</user_profile_promotion>
+  <webp>true</webp>
+  <webtrekk_swiss>true</webtrekk_swiss>
+  <zplus_badge_gray>true</zplus_badge_gray>
+  <zplus_badge_on_registration_paywall>true</zplus_badge_on_registration_paywall>
+</features>
